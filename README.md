@@ -7,3 +7,14 @@ DI-Bootcamp-Stage1
 │  └───cookies-exercise.html
 ├───HTML-Intermediate
 │   └───programming-langages.html
+
+
+# DI_BootCamp_2024-week1-DAY2-Intermediate-HTML-Exercise-2
+DI-Bootcamp-Stage1
+├───HTML-Basics
+│  └───cookies-exercise.html
+├───HTML-Intermediate
+│   └───programming-langages.html
+│   └───media.html
+
+no video file (it's too big)
